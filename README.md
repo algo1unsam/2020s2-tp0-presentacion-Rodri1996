@@ -1,17 +1,12 @@
 # Presentación
 
-## Estudiante: <COMPLETAR CON TU NOMBRE>
+## Estudiante: Rodrigo Manuel Nieto
 
-Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
-
-Consiste en hacer 2 simples tareas:
-- [ ] **Editar este archivo completando tu nombre**. Para eso basta con 
-  - tocar el lapicito de arriba a la derecha de este archivo ![Selection_201](https://user-images.githubusercontent.com/4098184/89341982-8096af80-d678-11ea-9248-e70dab4b73f7.png)
-  - editar el archivo
-  - agregar un nombre y descripción al _commit_ (cambio) que vamos a subir. Este paso es opcional pero recomendable.
-  - darle al botón de **Commit** para subir los cambios al repositorio.
+Estudio: Tecnicatura en programacion informatica
+Edada: 23 años
+Nacionalidad: Argentina
 
 
-- [ ] **Subir una foto tuya**. Para esto pueden usar la opción para subir archivos que es bastante intuitiva.![Menu_202](https://user-images.githubusercontent.com/4098184/89341973-7e345580-d678-11ea-9a96-7c117034f81a.png)
+- [ ] [Menu_202](https://mail-attachment.googleusercontent.com/attachment/u/0/?ui=2&ik=50200b3e6b&attid=0.1&permmsgid=msg-a:r-4398625498734525211&th=173bbf0aab0f539f&view=att&disp=inline&realattid=173bbf08d3e774179381&saddbat=ANGjdJ-rfsFEof8iNGC2-3ZBtBuNGMAcN7E-PvDTHA1H4s8Ja4TcGb_kZw5jX2lyUJ2HvQr90Gd-ICg2A1YVtkFFTZH-_C0gpNwnNc5wQJSUcE4dXx28OQC9xetKB13faKOF3qdGOa4lU4UuVtlkhXPtwcBUFvjnr8RYXKk9RznbKpC9sycJWLY9AT74tjYLTKzhTsm9MY994vapw8XALq_hgpA4X8dXXHArzAmO1mS6ismkbHe9zjz0AN37p9yPf7mDiouKE0I4FGJGfSqLOc2hdEKcn9qmbabJsDNFtSyXB3rn4ZUKVvOUnfBLDzz2UfrDyhQBTMnfLo-2QE53uAEBxa40uHsQFkO-1z7vON54vSXGJrtuRT9xW70tlmqSjaqQf8kDqbauHdcTqitm92QSMLiEJwtOS4fx-hyvQO6fGBQlo56rMDmKy8wGCVmudd3RRrRVQSg9lyhf1A1oKL6TFaWEwZjTZd40ypEIzK0rqBbmKc96_5JSnrGVrwX6kFhvqQJgS63NaHyBzaisR2LYynR7OyUdu0wgSBetKLAVzHNNUlNpNz_VZ9CLBim4SXJinc9eX2ijG9ImOkPrd6bXMCmRsjEyEta3wTcUMOjJDVNB-LMl5qo2BZ7hTFvxVmqpREdKDPSjAOoV-8SJC_0VGEH53D5ZNrAtQnFmP9aPFR-3xzg_eJc3oSlJbs4)
 
-Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios, similar al paso anterior.
+
