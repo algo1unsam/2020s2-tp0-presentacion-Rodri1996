@@ -9,6 +9,6 @@ Edad: 23 años
 Nacionalidad: Argentina
 
 
-- ![ ](https://github.com/algo1unsam/2020s2-tp0-presentacion-Rodri1996/blob/master/foto.jpg?raw=true)
+- ![ ](https://github.com/algo1unsam/2020s2-tp0-presentacion-Rodri1996/blob/master/hola.jpg?raw=true)
 
 
